@@ -38,7 +38,7 @@ brew install ncurses
 ## Build 
 
 ```bash
-git clone <https://github.com/pramanik-souvik/terminal-roguelike-game.git>
+git clone <[https://github.com/pramanik-souvik/terminal-roguelike-game.git]>
 cd terminal-roguelike
 make
 ```
